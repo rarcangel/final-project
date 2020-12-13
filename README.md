@@ -3,6 +3,6 @@ This will be for my final project. I am creating an HTML/CSS cheatsheet to help 
 
 
 
-Author - Regina Arcangel
-      Project - Final Project for Intro to Computer Science with Prof. Eric Pogue
-            contact info - reginavarcangel@lewisu.edu
+||||Author - Regina Arcangel |||
+|||Project - Final Project for Intro to Computer Science with Prof. Eric Pogue|||
+|||Contact info - reginavarcangel@lewisu.edu|||
